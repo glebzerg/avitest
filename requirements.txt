@@ -1,0 +1,11 @@
+pytest==8.3.4
+pytest-allure-adaptor==1.7.10
+allure-pytest==2.13.5
+allure-python-commons==2.13.5
+requests==2.32.3
+pydantic==2.10.4
+python-dotenv==1.0.1
+black==24.10.0
+flake8==7.1.1
+isort==5.13.2
+mypy==1.14.1

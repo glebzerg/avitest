@@ -10,7 +10,7 @@
 ## Структура проекта
 
 ```
-avito-qa-assignment/
+avitest/
 ├── tests/
 │   ├── api/                    # API тесты
 │   │   ├── test_create_item.py
@@ -41,8 +41,8 @@ avito-qa-assignment/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/avito-qa-assignment.git
-cd avito-qa-assignment
+git clone https://github.com/your-username/avitest.git
+cd avitest
 ```
 
 ### 2. Создание виртуального окружения

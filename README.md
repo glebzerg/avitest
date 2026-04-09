@@ -41,7 +41,7 @@ avitest/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/avitest.git
+git clone https://github.com/glebzerg/avitest.git
 cd avitest
 ```
 
